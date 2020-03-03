@@ -4,7 +4,7 @@ const messages = [
 	"Laura",
 	"Demian",
 	"Ana"
-]
+];
 
 const randomMsg = () => {
 	const message = messages[Math.floor(Math.random() *
